@@ -34,8 +34,18 @@ export const CartProvider = ({ children }) => {
     });
   };
 
+  const removeItem = (id) => {};
+
+  const toggleAmount = (id) => {};
+
+  const clearCart = () => {};
+
   return (
-    <CartContext.Provider value={{ ...state }}>{children}</CartContext.Provider>
+    <CartContext.Provider
+      value={{ ...state, removeItem, toggleAmount, clearCart }}
+    >
+      {children}
+    </CartContext.Provider>
   );
 };
 // make sure use
