@@ -29,7 +29,7 @@ const CartContent = () => {
         </button>
       </div>
 
-      <CartColumns></CartColumns>
+      <CartTotals></CartTotals>
     </Wrapper>
   );
 };
