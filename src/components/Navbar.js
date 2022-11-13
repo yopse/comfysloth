@@ -35,7 +35,7 @@ const Nav = () => {
             const { id, text, url } = link;
 
             return (
-              <li>
+              <li key={id}>
                 <Link to={url}>{text}</Link>
               </li>
             );

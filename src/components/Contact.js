@@ -8,9 +8,9 @@ const Contact = () => {
         <h3>Join our newsletter and get 20% off</h3>
         <div className="content">
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi
-            necessitatibus assumenda porro voluptatem aspernatur ad illo, quae
-            rerum consectetur non.
+            Hurry, Adorn your House Office Study Room, Living area and Most
+            importantly Your Mind with the comfysloth Products All here not
+            Anywhere
           </p>
 
           <form action="contact-form">
