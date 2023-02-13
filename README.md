@@ -16,6 +16,9 @@ Create React App, React Router Dom, Axios, Styled Components, React Icons, Auth0
 
 Netlify 
 
+Demo Credentials ->
+Email : ademo@gmail.com
+ Password : ademoA@12
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
